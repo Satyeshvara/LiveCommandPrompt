@@ -13,4 +13,4 @@
 
 ## How to use?
 **Shortcut Key:** `CTRL` + `ALT` + `T`
-- Open any folder and use this shortcut key (CTRL + ALT + T) to open Command Prompt in your current directory.
+- Open any folder and use this shortcut key (CTRL + ALT + T) to open Command Prompt in your active or current directory.
